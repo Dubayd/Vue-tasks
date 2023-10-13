@@ -25,3 +25,8 @@ zie: (https://nodejs.org/en/download).
 
    ```bash
    git clone https://github.com/Dubayd/Vue-tasks.git
+
+
+### app
+
+![alt text](img/app.png)
